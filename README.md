@@ -1,6 +1,6 @@
 # :diamond_shape_with_a_dot_inside:pdf2img
-使用JS将PDF文档转换为图片，并支持下载图片（.zip格式全部下载）
-fork自[xxlllq/pdf2img](https://github.com/xxlllq/pdf2img)  
+使用JS将PDF文档转换为图片，并支持下载图片（.zip格式全部下载） 
+* fork来自[xxlllq/pdf2img](https://github.com/xxlllq/pdf2img)  
 * 在线[Demo](https://v-i-c-t-o-r.github.io/pdf2img/) 
 <kbd>
   <div style="border: 1px solid gainsboro;border-radius: 5px;" align="center">
